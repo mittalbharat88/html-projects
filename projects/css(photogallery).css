@@ -1,0 +1,10 @@
+.navbar .navbar-brand{
+	font-size :2em;
+}	
+.jumbotron{
+	color:#2c3e50;
+	text-transform:capitalize;
+}
+body{
+	padding-top:70px;
+}

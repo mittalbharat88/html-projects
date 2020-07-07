@@ -1,0 +1,22 @@
+title{
+	text-transform :capitalize;
+	font-family:serif;
+}
+img{
+	width: 22%;
+	float:left;
+	margin:1.5%;
+}
+p{
+	font-size: 30px;
+	font-family: sans-serif;
+	text-transform:capitalize;
+	text-align: center;
+}
+.navbar-inverse .navbar-nav>li>a{
+	color:#eeeeee;
+	background:;
+}
+body{
+	background: #ffe6cc;
+}
